@@ -1,0 +1,43 @@
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editor settings and caches
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs and runtime files
+*.log
+*.out
+*.err
+*.pid
+*.seed
+
+# Environment files
+.env
+.env.*
+
+# Dependency directories
+node_modules/
+vendor/
+
+# Build / coverage outputs
+dist/
+build/
+out/
+coverage/
+.cache/
+.next/
+tmp/
+temp/
+
+# Archives / packaged artifacts
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.7z
+*.rar
